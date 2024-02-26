@@ -1,0 +1,16 @@
+lockfileVersion: '6.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+dependencies:
+  '@reiyanyan/vue-camera':
+    specifier: ^1.1.1
+    version: 1.1.1
+
+packages:
+
+  /@reiyanyan/vue-camera@1.1.1:
+    resolution: {integrity: sha512-U5ahSRa5R3vqWUY+P53OeWnwjQpgbPWEdcNiSVdG4myBP2eEym7OGQP3QVji/fMPMNnmgY+sO1okDLLWFnNVqw==}
+    dev: false
